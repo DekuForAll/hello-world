@@ -2,4 +2,4 @@
 Just a Hello world
 
 Myself DekuForALL ..
-Lokking forward to explore github to the fullest
+Looking forward to explore github to the fullest
